@@ -1,0 +1,11 @@
+{
+  "name": "trip-app",
+  "version": "1.0.0",
+  "description": "this is a trip application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jacky Yang",
+  "license": "ISC"
+}
